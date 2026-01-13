@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Impact Client For Miniblox VERSIONFILE auto-syncer!
+balance Client For Miniblox VERSIONFILE auto-syncer!
 Synchronizes version numbers across:
 - VERSIONFILE
 - tampermonkey.user.js  (// @version <num>)
